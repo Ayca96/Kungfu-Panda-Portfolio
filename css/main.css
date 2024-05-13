@@ -113,10 +113,10 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  align-items: center;
 }
 .project-bgImg-container .projects__bio-image {
   margin-bottom: 0.5rem;
+  text-align: center;
 }
 
 .projects__items {
