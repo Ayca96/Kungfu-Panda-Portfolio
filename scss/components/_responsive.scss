@@ -1,18 +1,18 @@
-// .about__job{
-//   @include media-sm {
-//     width: 100%;
-//     height: 100%;
-//   }
-//   @include media-md {
-//     width:;
-//     height: 100%;
-//   }
-//   @include media-lg {
-//     width: 100%;
-//     height: 100%;
-//   }
-//   @include media-xl {
-//     width: 100%;
-//     height: 100%;
-//   }
-// }
+.projects{
+  @include media-sm {
+    width: 100%;
+   
+  }
+  @include media-md {
+    width:;
+   
+  }
+  @include media-lg {
+    width: 30%;
+    
+  }
+  @include media-xl {
+    width: 100%;
+   
+  }
+}
