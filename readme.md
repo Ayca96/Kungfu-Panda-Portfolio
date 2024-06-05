@@ -1,15 +1,15 @@
 
 # 🐼 Kungfu Panda Portfolio
 
-Hoş geldiniz! Ben Ayça Kübra, Kung Fu Panda'nın dünyasından ilham alarak hazırladığım portföy web siteme göz atın.
+Welcome! I'm Ayça Kübra, take a look at my portfolio website inspired by the world of Kung Fu Panda.
 
-# ✨ Yazar
-Ayça Kübra - Kungfu Panda Hayranı ve Geliştirici 
+# ✨ Developer
+Ayça Kübra - Kungfu Panda Fan and Developer
 
-# 💖 Teşekkür
-Bu projede bana ilham veren Kung Fu Panda'ya ve tabii ki bu dünyayı tasarlayan DreamWorks ekibine teşekkür ederim!
+# 💖 Thanks
+I would like to thank Kung Fu Panda for inspiring me in this project, and of course the DreamWorks team who designed this world!
 
-# Senin kaderin elinde... ve bolca noodle! - 🐢 Usta Oogway
+# Your fate is in your hands... and lots of noodles! 🐢 Master Oogway
 
 ### Expected Outcome
 
