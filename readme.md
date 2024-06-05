@@ -1,4 +1,4 @@
-# Project : Responsive Navbar
+# Project : Responsive Website
 
 ### Expected Outcome
 
